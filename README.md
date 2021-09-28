@@ -1,9 +1,11 @@
+## Context V Redux
+
 <p align="center">
 
    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=for-the-badge&logo=visualstudiocode)
 ![ReactJS](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react)
 ![Javascript](https://img.shields.io/badge/-JavaScript-critical?style=for-the-badge&logo=JAVASCRIPT)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
+
 
 </p>
 
