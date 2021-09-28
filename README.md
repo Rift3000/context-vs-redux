@@ -1,7 +1,19 @@
-# Getting Started with Create React App
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=for-the-badge&logo=visualstudiocode)
+![ReactJS](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react)
+![Javascript](https://img.shields.io/badge/-JavaScript-critical?style=for-the-badge&logo=JAVASCRIPT)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
 
+</p>
+
+<br/>
+<br/>
+
+## Description
+### Context remains a good tool in the toolkit but I do not believe it can replace redux. 
+
+<br/>
 ## Available Scripts
 
 In the project directory, you can run:
